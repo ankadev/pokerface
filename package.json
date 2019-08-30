@@ -1,0 +1,24 @@
+{
+  "name": "pokerface",
+  "version": "1.0.0",
+  "description": "Einführung in die nodeJS / HTML / CSS / JavaScript Welt",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankadev/pokerface.git"
+  },
+  "author": "Andreas Kargus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankadev/pokerface/issues"
+  },
+  "homepage": "https://github.com/ankadev/pokerface#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
